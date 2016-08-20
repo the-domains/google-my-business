@@ -1,3 +1,4 @@
+layout_spectrum: 0.9220125044230372
 typography_spectrum: 0.07432722533121705
 color:
   brandStrength: 0.3435376069974154
@@ -10,7 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.9220125044230372
 name: Google My Business
-title: Google My Business
-description: finding you made easier
